@@ -1,3 +1,3 @@
 # WarriorButton
 Warrior Button
-Hope i can update the exsiting warrior button to work with zorlen 4.28
+The Current Warrior Button doesnt work with Zorlen Libraries 4.28. Hope we can get a working addon out for the community.
